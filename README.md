@@ -332,7 +332,7 @@
         <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops.</li>
           <ul><li>Loyalty members align with the ideal user persona for MacBook Air laptops, as they purchase high-priced products, are more likely to return as customers, and rarely make returns.</li></ul>
         <h3>Refund Rates</h3>
-        <li>Streamline product quality control for for high AOV products as as they are the most frequently returned products.</li>
+        <li>Streamline product quality control for high AOV products as they are the most frequently returned products.</li>
           <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
           <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
         <h3>Regions</h3>
